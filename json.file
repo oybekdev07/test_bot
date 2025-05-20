@@ -1,0 +1,1806 @@
+[
+  {
+    "id": 1,
+    "savol": "O'ZBEKISTON RESPUBLIKASI",
+    "javoblar": {
+      "A": "OLIY TA'LIM, FAN VA INNOVATSIYALAR VAZIRLIGI",
+      "B": "TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI",
+      "C": "“TASDIQLAYMAN”",
+      "D": "Toshkent davlat iqtisodiyot universiteti O‘quv ishlari bo‘yicha birinchi prorektori _________S.U. Mexmonov",
+      "E": "“___” _______   2024 y.",
+      "F": "“AUDIT” KAFEDRASI",
+      "G": "“Audit” fanidan",
+      "H": "YAKUNIY NAZORAT SAVOLLARI",
+      "I": "TOSHKENT-2024",
+      "J": "4- kurslar Barcha yo’nalishlar uchun “Audit” fanidan test savalollari",
+      "K": "O‘zbekiston Respublikasining “Auditorlik faoliyati to’g’risida”gi qonuni qachon qabul qilingan?",
+      "L": "2021-yil 25-fevral",
+      "M": "2021-yil 24-fevral",
+      "N": "2022-yil 25-fevral",
+      "O": "2020-yil 10- noyabr"
+    },
+    "togri_javob": "L"
+  },
+  {
+    "id": 2,
+    "savol": "Renking -bu?",
+    "javoblar": {
+      "A": "Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish",
+      "B": "Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan xo’jalik yurituvchi subyektlar va auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish",
+      "C": "Auditorlik tashkilotining nomi va joylashgan eri",
+      "D": "Auditorlar ishi sifatining ichki nazorati auditorlik tashkiloti tomonidan amalga oshiriladigan, uning auditorlari va xodimlari tomonidan ushbu Qonun talablariga rioya etilishini ta’minlovchi tartib-taomillarga asoslangan tashkiliy chora-tadbirlar tizimi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 3,
+    "savol": "Auditorlik tashkiloti o‘zi uchun asosiy ish joyi bo‘lgan auditorlarning eng kam soni nechi nafar auditordan iborat bo‘lishi kerak?",
+    "javoblar": {
+      "A": "4",
+      "B": "5",
+      "C": "3",
+      "D": "6"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 4,
+    "savol": "Ustav fondidagi (ustav kapitalidagi) auditorlarga (auditorga) tegishli bo‘lgan ulush kamida nechi foizni tashkil etishi kerak ?",
+    "javoblar": {
+      "A": "51%",
+      "B": "50%",
+      "C": "49%",
+      "D": "52%"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 5,
+    "savol": "Auditorlik tashkilotlari qanday turidagi auditorlik  xizmatlarini ko‘rsatadi?",
+    "javoblar": {
+      "A": "Auditorlik tekshiruvlari va turdosh xizmatlari",
+      "B": "Faqat auditorlik tekshiruvlari",
+      "C": "Ixtiyoriy va majburiy auditorlik tekshiruvlari",
+      "D": "To’g’ri javob berilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 6,
+    "savol": "Auditorlik tashkilotlari qanday turdosh xizmatlarni ko‘rsatishi mumkin?",
+    "javoblar": {
+      "A": "hamma javoblar to’g’ri",
+      "B": "Moliya-xo‘jalik faoliyatini tahlil qilish va moliyaviy rejalashtirish, shu jumladan biznes-rejalar tayyorlash, iqtisodiy, moliyaviy maslahat va boshqaruvga oid maslahat berish",
+      "C": "Buxgalteriya hisobini yo‘lga qo‘yish, qayta tiklash, yuritish va moliyaviy hisobot tuzish, shu jumladan moliyaviy hisobotning xalqaro standartlari bo‘yicha moliyaviy hisobot tuzish",
+      "D": "Buxgalteriya hisobi, audit va moliyaviy hisobot, soliq solish, moliya-xo‘jalik faoliyatini hamda moliyaviy rejalashtirishni tahlil qilishga doir seminarlar, konferensiyalar o‘tkazish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 7,
+    "savol": "Auditorlik tashkilotlariga qanday holatlarda auditorlik tekshiruvini o‘tkazish taqiqlanadi?",
+    "javoblar": {
+      "A": "Muassisi, ishtirokchisi, aksiyadori yoki rahbarlik vazifalarini yoxud buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshirayotgan shaxsi, audit qo‘mitasi a’zosi bir vaqtning o‘zida mazkur auditorlik tashkilotining xodimi bo‘lgan xo‘jalik yurituvchi subyektga nisbatan",
+      "B": "Xodimlari muassisning, ishtirokchining yaqin qarindoshlari yoki rahbarlik vazifalarini yoxud buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshiruvchi shaxsning tekshirilayotgan xo‘jalik yurituvchi subyekt audit qo‘mitasi a’zosining yaqin qarindoshlari bo‘lmagan",
+      "C": "Auditorlik tashkilotining yoki auditorning manfaatdorligi moliyaviy hisobot va u bilan bog‘liq moliyaviy axborot to‘g‘risida fikr bildirishga ta’sir ko‘rsatishi mumkin bo‘lgan manfaatlar to‘qnashuvi yuzaga kelmagan taqdirda",
+      "D": "Hech qanday holatda cheklov o’rnatilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 8,
+    "savol": "Auditorlik tashkiloti ketma-ket nechi yildan ko‘proq ayni bir xo‘jalik yurituvchi subyektning auditorlik tekshiruvini o‘tkazishga haqli emas?",
+    "javoblar": {
+      "A": "7 yil",
+      "B": "3 yil",
+      "C": "5 yil",
+      "D": "6 yil"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 9,
+    "savol": "Quyidagi yuridik sahxslarning qaysi biri har yili majburiy auditorlik tekshiruvidan o‘tmaydi?",
+    "javoblar": {
+      "A": "Maktabgacha ta’lim muassasalari",
+      "B": "Aksiyadorlik jamiyatlari",
+      "C": "Davlat unitar korxonalari",
+      "D": "Investitsiya fondlari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 10,
+    "savol": "Banklarning auditorlik tekshiruvi shtatida banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatiga ega bo‘lgan nechi nafar auditor mavjud bo‘lgan auditorlik tashkilotlari tomonidan o‘tkaziladi?",
+    "javoblar": {
+      "A": "Kamida 2 nafar",
+      "B": "Kamida 3 nafar",
+      "C": "Kamida 1 nafar",
+      "D": "Kamida 4 nafar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 11,
+    "savol": "Yuridik shaxs, uning mulkdori, ustav fondida (ustav kapitalida) nechi foiz miqdoridagi ulushga ega bo‘lgan ishtirokchilar va aksiyadorlar, shuningdek nazorat qiluvchi yoki huquqni muhofaza qiluvchi organlar tashabbus tarzidagi auditorlik tekshiruvining buyurtmachilari bo‘lishi mumkin?",
+    "javoblar": {
+      "A": "Kamida 5%",
+      "B": "Kamida 3%",
+      "C": "Kamida 15%",
+      "D": "Kamida 51%"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 12,
+    "savol": "O‘zbekiston Respublikasi Markaziy bankining auditorlik faoliyati sohasidagi vakolatlariga nimalar kiradi?",
+    "javoblar": {
+      "A": "hamma javoblar to’g’ri",
+      "B": "Banklarni auditorlik tekshiruvidan o‘tkazishning o‘ziga xos xususiyatlarini belgilaydi",
+      "C": "Banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatini berish tartibini belgilaydi va uni beradi",
+      "D": "Banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatiga ega bo‘lgan Auditorlarning reyestrini yuritadi va uni o‘z rasmiy veb-saytiga joylashtiradi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 13,
+    "savol": "Auditorlarning respublika jamoat birlashmalari-bu?",
+    "javoblar": {
+      "A": "Auditorlarni birlashtiradigan nodavlat notijorat tashkilotlari",
+      "B": "O‘zbekiston Respublikasi Moliya vazirligi auditorlik faoliyati sohasidagi vakolatli davlat organidir",
+      "C": "Auditorlarni birlashtiradigan xo’jalik yurituvchi subyektlar",
+      "D": "To’g’ri javob berilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 14,
+    "savol": "Auditor auditorning malaka sertifikatini olgan yildan keyingi yildan e’tiboran nechi yilda auditorlarning malaka oshirish kurslaridan o‘tishi lozim?",
+    "javoblar": {
+      "A": "Har 1 yili",
+      "B": "Har 2 yili",
+      "C": "Har 3 yili",
+      "D": "Har 5 yili"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 15,
+    "savol": "…………………..-auditorning malakasini tasdiqlaydigan va unga auditorlik tashkiloti tarkibida auditorlik xizmatlarini ko‘rsatish huquqini beradigan hujjatdir",
+    "javoblar": {
+      "A": "Auditorning malaka sertifikati",
+      "B": "Auditorlik sertifikati",
+      "C": "Xalqaro buxgalterlik sertifikati",
+      "D": "Xalqaro auditorlik sertifikari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 16,
+    "savol": "Auditorning malaka sertifikati dastlabki nechi yillik muddatga beriladi, uning amal qilishi navbatdagi nechi yillik muddatga va keyinchalik nechi yillik davrga uzaytiriladi?",
+    "javoblar": {
+      "A": "5,10,muddatsiz",
+      "B": "5,10,15",
+      "C": "5,15,muddatsiz",
+      "D": "5,15,25"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 17,
+    "savol": "Auditorning malaka sertifikatining amal qilish muddati qanday holatlarda malaka imtihoni topshirilmagan holda uzaytiriladi.?",
+    "javoblar": {
+      "A": "Auditorda kamida 10 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda",
+      "B": "Auditorda kamida 5 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda",
+      "C": "Auditorda kamida 15 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda",
+      "D": "Auditorda kamida 12 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 18,
+    "savol": "Malaka imtihonidan o‘ta olmagan talabgor, malaka imtihonini qayta topshirish uchun malaka imtihonida ishtirok etgan sanadan e’tiboran qancha oydan so‘ng hujjatlarni taqdim etishga haqli?",
+    "javoblar": {
+      "A": "Kamida 1 oy",
+      "B": "Kamida 2 oy",
+      "C": "Kamida 1.5 oy",
+      "D": "Kamida 3 oy"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 19,
+    "savol": "Sertifikat olish uchun talabgor oliy ma’lumotga hamda oliy ta’lim tashkilotini tamomlaganidan keyin oxirgi o‘n yildan kamida nechi yil buxgalteriya hisobi va audit sohasida yoki oliy ta’lim tashkilotida “Buxgalteriya hisobi” yoxud “Audit” fanidan dars berish sohasida ish stajiga ega bo‘lishi kerak?",
+    "javoblar": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "1"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 20,
+    "savol": "“Buxgalteriya hisobi” va “Audit” ixtisosliklari bo‘yicha magistr diplomiga ega bo‘lgan sertifikat olish uchun talabgor uchun auditorlik tashkilotida kamida nechi yillik ish staji talab qilinadi?",
+    "javoblar": {
+      "A": "1 yillik",
+      "B": "2 yillik",
+      "C": "6 yillik",
+      "D": "9 yillik"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 21,
+    "savol": "Auditorlik faoliyati sohasidagi asosiy prinsiplar nimalardan iboratdir?",
+    "javoblar": {
+      "A": "Mustaqillik, xolislik va halollikdan, kasbiy bilimga egalik hamda axborotning maxfiyligidan",
+      "B": "Mustaqillik, halollik va muqobillik",
+      "C": "Mustaqillik, xolislik va halolik, uyg’unlik",
+      "D": "Hamma javoblar to’g’ri"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 22,
+    "savol": "Auditorning malaka sertifikati kim tomonidan beriladi?",
+    "javoblar": {
+      "A": "Auditorlarning respublika jamoat birlashmalari tomonidan",
+      "B": "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi tomonidan",
+      "C": "O‘zbekiston Respublikasi Markaziy banki tomonidan",
+      "D": "Davlat aktivlarini boshqarish agentligi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 23,
+    "savol": "……………..-auditorlik tashkilotlarining auditorlik faoliyati sohasidagi vakolatli davlat organi rasmiy veb-saytiga joylashtirilgan ro‘yxati.",
+    "javoblar": {
+      "A": "Auditorlik tashkilotlarining reyestri",
+      "B": "Auditorlar reyestri",
+      "C": "Audit qo‘mitasi",
+      "D": "Auditorlik tashkiloti"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 24,
+    "savol": "Moliyaviy hisobotning ishonchliligi va buxgalteriya hisobi to‘g‘risidagi qonunchilik talablariga muvofiqligi to‘g‘risida auditorlik tashkilotining yozma shaklda ifodalangan fikrini o‘z ichiga olgan hujjat bu –  ….?",
+    "javoblar": {
+      "A": "Auditorlik xulosasi",
+      "B": "Dalolatnoma",
+      "C": "Hisobot",
+      "D": "Auditning xalqaro qoidalari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 25,
+    "savol": "Auditorlik tashkiloti ishi sifatining tashqi nazoratini o‘tkazish muddati …….",
+    "javoblar": {
+      "A": "O‘n ish kunidan oshmasligi kerak",
+      "B": "O‘n kunidan oshmasligi kerak",
+      "C": "Besh ish kunidan oshmasligi kerak",
+      "D": "O‘n besh kundan oshmasligi kerak"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 26,
+    "savol": "500-son AXSga muvofiq audit amallarining nechta asosiy turi mavjud ?",
+    "javoblar": {
+      "A": "7 ta",
+      "B": "5 ta",
+      "C": "8 ta",
+      "D": "6 ta"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 27,
+    "savol": "«Buxgalteriya hisobi to’g’risida»gi qonunning 21-moddasiga muvofiq ichki nazorat tizimini tashkil etish uchun kim javobgardir?",
+    "javoblar": {
+      "A": "Xo’jalik yurituvchi subyekt rahbari",
+      "B": "Auditor",
+      "C": "Bosh hisobchi",
+      "D": "Moliyaviy deriktor"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 28,
+    "savol": "Auditorlik tashkiloti ishi sifatining tashqi nazorati ……..",
+    "javoblar": {
+      "A": "Tavakkalchilik-tahlili natijasida bo‘yicha o‘tkaziladi",
+      "B": "Har chorak yakunida o‘tkaziladi",
+      "C": "Moliya yili yakunida o‘tkaziladi",
+      "D": "Hisobot yilidan keyin 15 iyunga qadar o‘tkaziladi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 29,
+    "savol": "Quyidagilardan qaysi biri auditorlik tashkiloti ishi sifatining asosiy ko‘rsatkichlari trakibiga kirmaydi?",
+    "javoblar": {
+      "A": "auditorlik tashkiloti ustav kapitalining yetarliligi",
+      "B": "ichki nazoratning tizimi",
+      "C": "xalqaro auditorlik tashkilotlariga yoki assotsiatsiyalariga a’zolik;",
+      "D": "auditorlarning har yilgi malaka oshirish kurslaridan o‘tish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 30,
+    "savol": "Vakolatli organ tomonidan auditorlik tashkiloti ishi sifatining tashqi nazoratini o‘tkazishda quyidagilardan qaysi biriga aralashishga yo‘l qo‘yilmaydi",
+    "javoblar": {
+      "A": "Auditorlik tashkilotining moliyaviy-xo‘jalik faoliyatiga aralashishga",
+      "B": "Tavakkalchilik darajasini baholashga",
+      "C": "Auditorlik tashkiloti tomonidan AXS talablariga rioya etilishini baholashga",
+      "D": "Auditorlik tashkilotining Qonun talablarini buzadigan harakatlari (harakatsizligi) ustidan jismoniy yoki yuridik shaxslarning murojaatlari mavjudligini o‘rganishga"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 31,
+    "savol": "Ichki auditorga tekshirish uchun huquq beradigan hujjat?",
+    "javoblar": {
+      "A": "Malaka sertifikati",
+      "B": "Litsenziya",
+      "C": "Diplom",
+      "D": "Guvohnoma"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 32,
+    "savol": "O‘zbekiston Respublikasi hududida qo‘llash uchun auditning xalqaro standartlarini tan olish tartibini belgilash qaysi organning vakolatiga mansub?",
+    "javoblar": {
+      "A": "O‘zbekiston Respublikasi Vazirlar Mahkamasi",
+      "B": "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi",
+      "C": "O‘zbekiston auditorlar palatasi",
+      "D": "O‘zbekiston buxgalter va auditorlarning milliy assotsiatsiyasi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 33,
+    "savol": "Moliyaviy hisobot auditining maqsadi va uni tartibga soluvchi asosiy tamoyillar qaysi standartga tegishli?",
+    "javoblar": {
+      "A": "Auditning umumiy standarti",
+      "B": "Auditning ishchi standarti",
+      "C": "Hisobot standari",
+      "D": "Maxsus standart"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 34,
+    "savol": "Xalqaro buxgalterlar federatsiyasining Xalqaro odob-axloq standartlari bo‘yicha kengashi tomonidan ………………… e’lon qilinadi",
+    "javoblar": {
+      "A": "Professional buxgalterning odob-axloq kodeksi",
+      "B": "Auditorlarning axloq kodeksi",
+      "C": "Auditning xalqaro standartlari",
+      "D": "Ishonchni ta’minlaydigan topshiriqlarning xalqaro standartlari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 35,
+    "savol": "Auditorlik tashkilotlari renkingini o‘tkazishning yagona tartibini belgilovchi organ bu – ……….",
+    "javoblar": {
+      "A": "Auditorlarning respublika jamoat birlashmalari",
+      "B": "O‘zbekiston Respublikasi Vazirlar Mahkamasi",
+      "C": "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi",
+      "D": "Barcha javob to‘g‘ri"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 36,
+    "savol": "Auditni rejalashtirish qaysi standartda ko’rib chiqiladi?",
+    "javoblar": {
+      "A": "Auditning ishchi standarti",
+      "B": "Auditning umumiy standarti",
+      "C": "Hisobot standarti",
+      "D": "Maxsus standart"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 37,
+    "savol": "Auditorlik dalillar qaysi standartda ko’riladi?",
+    "javoblar": {
+      "A": "Auditning ishchi standarti",
+      "B": "Maxsus standart",
+      "C": "Auditning umumiy standarti",
+      "D": "Hisobot standarti"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 38,
+    "savol": "Buxgalteriya hisobi va audit sohasidagi xalqaro tashkilotda akkreditatsiyadan o‘tgan o‘quv markazlari ………….",
+    "javoblar": {
+      "A": "Auditorlarning malakasini oshirish kurslarini tashkil etadi",
+      "B": "Auditorlarni sertifikatlash dasturlarini ishlab chiqhishga ko‘maklashadi",
+      "C": "Auditorlarni sertifikatlash imtihonlarini tashkil etishga ko‘maklashadi",
+      "D": "Auditorlarni qayta tayyorlash kurslarini tashkil etadi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 39,
+    "savol": "Quyidagilarning qaysi biri “Auditorlik faoliyati to‘g‘risida”gi Qonun talablarini bir marta qo‘pol tarzda buzish deb e’tirof etiladi?",
+    "javoblar": {
+      "A": "Auditorning har yilgi malaka oshirish kurslaridan o‘tmaganligi",
+      "B": "auditorning huquqni muhofaza qiluvchi organlarning topshiriqlariga ko‘ra har xil tekshiruvlarni o‘tkazish uchun auditorlik tashkiloti va mazkur organlar o‘rtasida shartnoma asosida mutaxassis sifatida ishtirok etganligi;",
+      "C": "auditor faqat bir auditorlik tashkilotining xodimi ekanligi fakti aniqlanganda",
+      "D": "Barcha javoblar to‘g‘ri"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 40,
+    "savol": "Auditorlik xizmatlari buyurtmachisining talabiga ko‘ra auditor (auditorlar) sertifikatini ko‘rsatish bu –",
+    "javoblar": {
+      "A": "Auditorlik tashkilotining majburiyati",
+      "B": "Auditorlik tashkilotining huquqi",
+      "C": "Auditorlik tashkilotining javobgarligi",
+      "D": "Auditorlik tashkilotining axloqiy tamoyili"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 41,
+    "savol": "Auditorlik tashkilotlari ish sifati ustidan tashqi nazoratni qaysi organ amalga oshiradi ?",
+    "javoblar": {
+      "A": "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi va auditorlarning respublika jamoat birlashmalari bilan birgalikda",
+      "B": "O’zbekiston Respublikasi adliya vazirligi",
+      "C": "Audit qo’mitasi",
+      "D": "Barcha javoblar to’g’ri"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 42,
+    "savol": "Tekshirilayotgin korxona xodimlariga «yaxshilik» qilish maqsadida auditorni nima qilishi mutlaqo mumkin emas?",
+    "javoblar": {
+      "A": "auditorni shaxsan o’zi dastlabki hujjatlar, hisob registrlari va buxgalteriya hisobotlaridagi xatolarni to’g’rilashi",
+      "B": "auditorni shaxsan o’zi taklif va maslahat berishi",
+      "C": "auditor aniqlangan xato yoki kamchiliklar to’g’risida korxona rahbariyatiga bildiradi va ularni tuzatish bo’yicha aniq tavsiyalar beradi",
+      "D": "to’gri javob ko’rsatilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 43,
+    "savol": "Kamchiliklar audit o’tkazish chog’ida buyurtmachi korxona tomonidan tuzatilmasa, auditor tomonidan qanday chora ko’rilishi mumkin?",
+    "javoblar": {
+      "A": "moliyaviy hisobotning ishonchliligini tasdiqlash mumkin emasligi to’g’risida auditorlik tekshiruvining xulosasida yoziladi",
+      "B": "buxgalterlik (moliyaviy) hisobotning ishonchliligini tasdiqlash mumkin emasligi to’g’risida auditorlik tekshiruvining xulosasida yozilmaydi",
+      "C": "javobgarlikka tortiladi",
+      "D": "to’gri javob ko’rsatilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 44,
+    "savol": "Auditorlik xulosasining shakli va mazmuni nima asosida belgilanadi",
+    "javoblar": {
+      "A": "auditorlik faoliyati standartlari",
+      "B": "hujjatlar asosida",
+      "C": "tekshirilayotgan hujjatlar va dalillar asosida",
+      "D": "to’gri javob ko’rsatilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 45,
+    "savol": "Auditorlik xulosasi qachon bila turib soxta tuzilgan deb topiladi?",
+    "javoblar": {
+      "A": "sudning qonuniy kuchga kirgan qaroriga ko‘ra",
+      "B": "aniqlangan paytda",
+      "C": "tekshiruv jarayonida",
+      "D": "to’g’ri ko’rsatilgan javobni aniqlang."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 46,
+    "savol": "Bila turib soxta auditorlik xulosasini tuzish qanday oqibatlarga olib kelishi mumkin?",
+    "javoblar": {
+      "A": "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarishga, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatishga, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish",
+      "B": "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarmaslikka, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatishga, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish",
+      "C": "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarishga, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatmaslikka, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish",
+      "D": "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarmaslikka, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatmaslikka, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 47,
+    "savol": "Auditorlik tekshiruvida axborotlarga shubha koʼzi bilan qarashni va dalillarni tanqidiy baholashni nazarda tutadigan yondashuv?",
+    "javoblar": {
+      "A": "Professional skeptitsizm",
+      "B": "Professional mulohaza",
+      "C": "Professional kompitetntlik",
+      "D": "to’gri javob ko’rsatilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 48,
+    "savol": "Muayyan auditorlik tekshiruvida harakatlarni yetarli rejalashtirish toʼgʼrisida asoslantirilgan qarorlar qabul qilish tegishli malaka, bilim va tajribani qoʼllash.................................asosida amalga oshiriladi",
+    "javoblar": {
+      "A": "Professional mulohaza",
+      "B": "Kasbiy kompitentlik",
+      "C": "Maxfiylik",
+      "D": "to’gri javob ko’rsatilmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 49,
+    "savol": "Xalqaro standartlarga binoan auditorlik xulosalarining qanday turlari mavjud?",
+    "javoblar": {
+      "A": "hamma javoblar to’g’ri",
+      "B": "ijobiy auditorlik xulosasi",
+      "C": "salbiy auditorlik xulosasi",
+      "D": "xulosa berishdan bosh tortish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 50,
+    "savol": "Ichki audit xizmati xarajatlarining yillik smetasi kim tomonidan tasdiqlanadi ?",
+    "javoblar": {
+      "A": "Kuzatuv kengashi",
+      "B": "Ichki audit xizmati rahbari",
+      "C": "Direktorlar Kengashi",
+      "D": "Ta’sischilar umumiy yig‘ilishi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 51,
+    "savol": "Muhim buzib ko‘rsatishlar riski komponentlari to‘g‘ri ko‘rastilgan javobni toping?",
+    "javoblar": {
+      "A": "Ajratib boʼlmaslik riski va nazorat vositalari riski",
+      "B": "Ajratib boʼlmaslik riski va aniqlanmaslik riski",
+      "C": "Nazorat vositalari riski va tadbirkotlik riski",
+      "D": "aniqlanmaslik riski va biznes risk"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 52,
+    "savol": "Aniqlanmaslik riskiga ta’sir etuvchi risklar to‘g‘ri ko‘rsatilgan javobni aniqlang?",
+    "javoblar": {
+      "A": "Tanlash bilan bog‘liq va tanlash bilan bog‘liq bo‘lmagan risklar",
+      "B": "Aniqlanmaslik riski va biznes risk.",
+      "C": "Ajratib boʼlmaslik riski va aniqlanmaslik riski",
+      "D": "Ajratib boʼlmaslik riski va nazorat vositalari riski."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 53,
+    "savol": "Auditini rejalashtirishning asosiy qoidalarini ko’rsating?",
+    "javoblar": {
+      "A": "Komplekslilik, uzluksizlik, maqbullik",
+      "B": "Aniqlilik, uzluksizlik, maqbullik",
+      "C": "To’liqlik, uzluksizlik, maqbullik",
+      "D": "Komplekslilik, aniqlik, maqbullik"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 54,
+    "savol": "Ma’lumot yetarli bo‘lmagani uchun haqiqiy holatni aniqlay olmadik, degan fikrga kelinsa qaysi xulosa turi tanlanadi?",
+    "javoblar": {
+      "A": "Xulosa berishdan bosh tortish",
+      "B": "Modifikatsiyalanmagan auditorlik xulosasi",
+      "C": "Stratifikatsiyalangan auditorlik xulosasi",
+      "D": "Izohlar bilan bildirilgan auditorlik xulosasi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 55,
+    "savol": "Quyidagi holatlardan qaysi birida mijoz korxonada auditorlik tekshiruvini o‘tkazish taqiqlanadi?",
+    "javoblar": {
+      "A": "Auditorlik tashkiloti ketma-ket yetti yildan ko‘proq ayni bir mijoz korxonaning auditorlik tekshiruvini o‘tkazganda",
+      "B": "buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshirayotgan shaxs bir vaqtning o‘zida mazkur auditorlik tashkilotining xodimi bo‘lmaganda",
+      "C": "mazkur auditorlik tashkilotining kreditorlari, sug‘urtalovchilari bo‘lmagan xo‘jalik yurituvchi subyektlar",
+      "D": "mazkur auditorlik tashkilotining kreditorlari, sug‘urtalovchilari bo‘lmagan mijoz korxonada"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 56,
+    "savol": "Kutilayotgan ishlar rejasida quyidagi ko’rsatkichlardan qaysi biri aks ettirilmaydi?",
+    "javoblar": {
+      "A": "auditorlik tekshiruvi uchun haq",
+      "B": "audit o’tkazish muddati va ishlarning davomiyligi",
+      "C": "bajariladigan ishlar hajmi",
+      "D": "auditor qo’llaydigan usullar va amallar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 57,
+    "savol": "Auditda tekshiruvning mamlakat qonunlariga to’g’ri kelish-kelmasligi auditning qaysi turida ko’rib o’tiladi?",
+    "javoblar": {
+      "A": "Mos keluvchanlik auditi",
+      "B": "Operatsion audit",
+      "C": "Moliyaviy hisobotlar auditi",
+      "D": "Majburiy audit"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 58,
+    "savol": "Auditorlik tekshiruvlarini o’tkazish shakllari va uslublari kim tomonidan aniqlanadi?",
+    "javoblar": {
+      "A": "Auditorlik tashkiloti",
+      "B": "Moliya vazirligi",
+      "C": "Auditorlar palatasi",
+      "D": "Soliq Qo’mitasi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 59,
+    "savol": "Moliyaviy hisobot auditining maqsadiga eng to’g’ri berilgan ta’rifni toping",
+    "javoblar": {
+      "A": "Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo’yicha moliyaviy hisobotni taqdim etishga oid belgilangan konseptual asosga muvofiq tayyorlanganligi haqida o’z fikrini bildirish uchun imkoniyat yaratishdir.",
+      "B": "Moliyaviy hisobotni taqdim etishga oid belgilangan kontseptual asosga muvofiq tayyorlanganligini bildirish uchun auditor xulosasini shakllantirish",
+      "C": "Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo’yicha tayyorlanganligi va taqdim etilishi moliyaviy hisobotning xalqaro standart (MHXS) talablari asosida tayyorlashdir",
+      "D": "Moliyaviy hisobotga nisbatan ishonchni oshirganligi bilan bir qatorda, foydalanuvchi ushbu xulosani subyekt kelajakda barqaror faoliyat ko’rsatish uchun ishonch, hamda subyekt rahbariyati tomonidan mukammal va samarali ish yuritish kafolati deb hisoblaydi."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 60,
+    "savol": "Tashabbus tarzidagi auditorlik tekshiruvining buyurtmachisi bo‘lishi mumkin shaxslar to‘g‘ri keltirilgan javobni toping?",
+    "javoblar": {
+      "A": "Ustav fondida (ustav kapitalida) kamida besh foiz miqdoridagi ulushga ega bo‘lgan ishtirokchilar va aksiyadorlar tashabbusi",
+      "B": "Sug‘urtalovhi sug‘urta tashkiloti tashabbusi",
+      "C": "Tijorat banki tashabbusi",
+      "D": "Barcha javoblar to‘g‘ri"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 61,
+    "savol": "Moliyaviy hisobotni tayyorlash va taqdim etish bo’yicha mas’uliyat kimning zimmasida bo’ladi?",
+    "javoblar": {
+      "A": "mijoz korxona rahbariyatida",
+      "B": "auditor zimmasida",
+      "C": "yurist zimmasida",
+      "D": "mijoz rahbariyati va auditor zimmasida"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 62,
+    "savol": "Audit o’tkazishning muddatiga bog’liq ravishda auditorlik tekshiruvi qanday turlarga bo’linadi?",
+    "javoblar": {
+      "A": "Dastlabki, joriy, yakuniy auditorlik tekshiruvi",
+      "B": "hujjatli va haqiqiy",
+      "C": "joriy va yakuniy",
+      "D": "kunlik, oylik, yarim yillik va yillik"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 63,
+    "savol": "Soliqqa tortish maqsadida amortizatsiya ajratmalari hisoblash qaysi yuridik hujjatga muvofiq asosiy vosita obyektlarining dastlabki qiymatiga nisbatan amalga oshirilishi ham mumkin?",
+    "javoblar": {
+      "A": "O’zbekiston Respublikasi Soliq Kodeksi;",
+      "B": "O`zbekiston Respublikasi «Buxgalteriya hisobi to`g`risida» gi qonuni;",
+      "C": "O`zbekiston Respublikasi «Auditorlik faoliyati to`g`risida» gi qonuni;",
+      "D": "O`zbekiston Respublikasi Fuqarolik Kodeksi;"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 64,
+    "savol": "O`zbekistonda lizing munosabatlari qaysi hujjat bilan tartibga solinadi?",
+    "javoblar": {
+      "A": "6-son «Ijara hisobi» nomli BHMS;",
+      "B": "5-son «Asosiy vositalar» nomli BHMS;",
+      "C": "22-son «Chet el valutasida ifodalangan aktivlar va majburiyatlarning hisobi» nomli BHMS;",
+      "D": "14-son «Xususiy kapital to`g`risidagi hisobot» nomli BHMS;"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 65,
+    "savol": "Quyidagilardan qaysinisi auditorlik dalillarning eng ishonchlisi hisoblanadi?",
+    "javoblar": {
+      "A": "Auditorning bevosita kuzatish va moliya xo‘jalik muomalalarini o‘rganishi natijasida olingan dalillar.",
+      "B": "Uchinchi shaxsning dastlabki hujjatlari.",
+      "C": "Uchinchi shaxsning og‘zaki bildirishlari.",
+      "D": "Mijoz korxonani inventarizatsiya qilishdan olingan ma’lumotlar."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 66,
+    "savol": "Auditorlik amali nima?",
+    "javoblar": {
+      "A": "Bu muayyan audit uchastkasida dalillarni olish uchun auditor tomonidan amalga oshiriladigan ishlarning ma’lum tartibda va ketma-ketligidir.",
+      "B": "Bu mijoz korxonani inventarizatsiya qilishdir.",
+      "C": "Bu uchinchi shaxsning og‘zaki bildirishlarini yig‘ishdir.",
+      "D": "Bu mijoz korxonaning bir hujjatlarini boshqalar bilan solishtirishdir."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 67,
+    "savol": "Tahliliy amallar nima?",
+    "javoblar": {
+      "A": "Bu auditor tomonidan olingan ma’lumotlarni baholash, g‘ayrioddiy va buxgalteriya hisobida noto‘g‘ri aks ettirilgan xo‘jalik faoliyati faktlarini aniqlash.",
+      "B": "Bu sintetik va analitik hisob registrlarida dastlabki hujjatlar ma’lumotlarni aks ettirish.",
+      "C": "Bu mijoz korxonani inventarizatsiya qilish.",
+      "D": "Bu mijoz korxonaning arifmetik hisob-kitoblarini tekshirish."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 68,
+    "savol": "Auditorlik dalillari olinish manbasiga ko‘ra qaysi turlarga bo‘linadi.",
+    "javoblar": {
+      "A": "Ichki, tashqi va aralash dalillar",
+      "B": "Tasdiqlovchi, hujjatlashtirilgan.",
+      "C": "Yozma va og’zaki.",
+      "D": "Manbali olingan dalillar."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 69,
+    "savol": "Audit ish hujjatlariga quyidagilardan qaysi biri kiradi?",
+    "javoblar": {
+      "A": "hamma javoblar to’g’ri.",
+      "B": "auditni umumiy rejalash.",
+      "C": "analitik va sintetik registrlar.",
+      "D": "hujjatlarga qilingan xulosalar."
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 70,
+    "savol": "Moliyaviy hisobot auditi va muvofiqlik auditi o'rtasidagi farq nima",
+    "javoblar": {
+      "A": "Moliyaviy hisobot auditi moliyaviy hisobotlarning to'g'riligiga e'tiborni qaratadi, muvofiqlik auditi esa tashkilotning qonunlar va qoidalarga muvofiqligiga e'tibor qaratadi",
+      "B": "moliyaviy hisobot auditi ichki nazoratning samaradorligiga, muvofiqlik auditi esa tashkilotning qonunlar va me'yoriy hujjatlarga muvofiqligiga e'tibor qaratiladi",
+      "C": "Yozma va og‘zaki",
+      "D": "Manbali olingan dalillar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 71,
+    "savol": "500-599 raqamli audit standartlari qanday nomlanadi?",
+    "javoblar": {
+      "A": "Auditorlik dalillar",
+      "B": "Boshqa shaxslar xizmatlaridan foydalanish",
+      "C": "Auditda muhimlik",
+      "D": "Auditni rejalashtirish"
+    },
+    "togri_javob": "B"
+  },
+  {
+    "id": 72,
+    "savol": "Mohiyatiga ko’ra tekshirish … larni o’z ichiga oladi?",
+    "javoblar": {
+      "A": "batafsil testlash hamda tahliliy amal",
+      "B": "nazorat testlash",
+      "C": "maxsus savolnoma",
+      "D": "inventarizatsiya"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 73,
+    "savol": "Auditorlik dalillarini to’plash vaqtida paydo bo’ladigan vaziyatda firibgarlik va xatolarni ko’paytiradigan omillarga quyidagilardan qaysi biri kiradi?",
+    "javoblar": {
+      "A": "Buxgalteriya yozuvlari va uchinchi tomonlar ma’lumotlari o’rtasida katta farq mavjudligi va ularning auditorlik isbotlariga qarama-qarshiligi",
+      "B": "Ko’pturkumli korporativ tizim mavjudligi",
+      "C": "Yuristlarni va auditorlarni tez-tez almashinishi",
+      "D": "Bosh buxgalter, buxgalterlar va iqtisodchilarni tez-tez o’zgarib, almashinib turishi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 74,
+    "savol": "Quyidagilardan qaysi biri auditorlik dalillarini to’plash usuli hisoblanmaydi?",
+    "javoblar": {
+      "A": "baholash",
+      "B": "kuzatish",
+      "C": "so’rov",
+      "D": "qayta hisoblash"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 75,
+    "savol": "Auditorlik dalillarining mosligi",
+    "javoblar": {
+      "A": "Auditorlik dalillarining sifat o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "B": "Auditorlik dalillarining miqdoriy o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "C": "Auditorlik dalillarining nisbiy o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "D": "Auditorlik dalillarining mutlaq o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 76,
+    "savol": "Auditorlik tashkiloti moliyaviy hisobot to’g’risida fikr bildirish uchun yetarli dalillar ololmayotganda qanday yo’l tutish lozim?",
+    "javoblar": {
+      "A": "Auditorlik xulosasini tuzishdan bosh tortishi lozim",
+      "B": "Mijoz korxona raxbari va bosh buxgalteri bilan dalolatnoma tuzish lozim.",
+      "C": "Mijoz korxona raxbari va bosh auditor birgalikda dalolatnoma tuzish lozim.",
+      "D": "Mijoz korxona raxbari va bosh buxgalterini jinoiy javobgalikga tortish lozim"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 77,
+    "savol": "Majburiyatlar auditida kamchiliklar sabablarini surishtirish auditorlik dalillarini olishning qaysi turiga mansub?",
+    "javoblar": {
+      "A": "so’rov",
+      "B": "nazorat",
+      "C": "hisoblash",
+      "D": "analitik amallar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 78,
+    "savol": "Auditorlar nazorat testlashdan qachon foydalanadi?",
+    "javoblar": {
+      "A": "Agar auditor muhim buzib ko’rsatishlarning oldini olish yoki aniqlash va tuzatishda nazorat vositalarining samaradorligini baholashni xohlasa, nazorat vositalarini testlashni amalga oshiradi.",
+      "B": "Auditorlar muhim buzib ko’rsatishlar riskini aniqlash uchun auditni rejalashtirish jarayonida risklarni baholash tartib-qoidalaridan foydalanadilar.",
+      "C": "Auditor moliyaviy hisobotdagi muhim buzib ko’rsatishlar bo’yicha bevosita dalil olmoqchi bo'lganda, mohiyatiga ko’ra tekshirishni qo’llaydi.",
+      "D": "Muhimlik darajasini belgilash paytida nazorat testlashni qo’llaydi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 79,
+    "savol": "“Audit” o’zagi so’zi qaysi tildan olingan?",
+    "javoblar": {
+      "A": "lotin tili",
+      "B": "ingliz tili",
+      "C": "yunon tili",
+      "D": "nemis tili"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 80,
+    "savol": "Bosh to’plamni har biri o’xshash xususiyatlarga ega bo’lgan namunaviy elementlar guruhini ifodalaydigan kichik to’plamlarga bo’lish jarayoni auditda nima deb ataladi?",
+    "javoblar": {
+      "A": "Stratifikatsiya",
+      "B": "Ekstrapolyatsiya",
+      "C": "Inventarizatsiya",
+      "D": "Amortizatsiya"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 81,
+    "savol": "Moliyaviy hisobot auditining asosiy maqsadi nimadan iborat",
+    "javoblar": {
+      "A": "moliyaviy hisobotlarning to‘g‘riligini tekshirish",
+      "B": "Auditorlik dalillarining sifat o‘lchovi, ya’ni auditorlik fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "C": "Auditorlik fikri uchun asos bo‘lgan hulosalarga erishishda ekspert tomonidan foydalanilgan ma’lumot",
+      "D": "Auditorlik dalillarining sifat o‘lchovi, ya’ni auditorlik fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda foydalanilgan ma’lumotlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 82,
+    "savol": "Agar nomoddiy aktiv kelgusida korxonaga iqtisodiy naf keltirmasa, nomoddiy aktiv…?",
+    "javoblar": {
+      "A": "xarajat sifatida aks ettiriladi",
+      "B": "aktiv sifatida aks ettiriladi",
+      "C": "kelgusi davr xarajatlari sifatida aks ettiriladi",
+      "D": "kelgusi davr daromadlari sifatida aks ettiriladi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 83,
+    "savol": "Auditorlar mohiyatiga ko’ra tekshirish amalidan qachon foydalanadi?",
+    "javoblar": {
+      "A": "Auditor moliyaviy hisobotdagi muhim buzib ko’rsatishlar bo’yicha bevosita dalil olmoqchi bo'lganda, mohiyatiga ko’ra tekshirishni qo’llaydi.",
+      "B": "Auditorlar muhim buzib ko’rsatishlar riskini aniqlash uchun auditni rejalashtirish jarayonida risklarni baholash tartib-qoidalaridan foydalanadilar.",
+      "C": "Agar auditor muhim buzib ko’rsatishlarning oldini olish yoki aniqlash va tuzatishda nazorat vositalarining samaradorligini baholashni xohlasa, mohiyatiga ko’ra tekshirishni amalga oshiradi.",
+      "D": "Muhimlik darajasini belgilash paytida mohiyatiga ko’ra tekshirishni qo’llaydi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 84,
+    "savol": "Asosiy vositalar auditida tanlashni amalga oshirishda olingan natijalarni butun tekshirilayotgan jamlanmaga tatbiq etish nima deb ataladi?",
+    "javoblar": {
+      "A": "ekstrapolyatsiyalash",
+      "B": "difraktsiyalash",
+      "C": "dispersiyalash",
+      "D": "determinlash"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 85,
+    "savol": "Asosiy vositalar bo’yicha hisoblangan amortizatsiya qanday hisobdan chiqariladi?",
+    "javoblar": {
+      "A": "Asosiy ishlab chiqarish yoki davr xarajati hisobiga",
+      "B": "debitorlik qarzlari hisobiga",
+      "C": "qarz mablag’lari hisobiga",
+      "D": "majburiyatlar hisobiga"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 86,
+    "savol": "Audit standartlari -?",
+    "javoblar": {
+      "A": "Bu o’zining professional faoliyati davomida hamma auditorlar rioya qilishi lozim bo’lgan yagona asos tamoyillardir",
+      "B": "Bunday hujjat mavjud emas",
+      "C": "Bu faqat yordamchi auditorlar rioya qilishi lozim bo’lgan yagona asos tamoyillardir",
+      "D": "Bu faqat yordamchi auditorlar rioya qilishi lozim bo’lgan asos tamoyillardir"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 87,
+    "savol": "Auditor auditni rejalashtirish davrida ajratib bo’lmaydigan tavakkalchiligini 70%, ichki nazorat tavakkalchiligini 40%, aniqlanmaslik tavakkalchiligini 12% qilib belgiladi. Shunda auditorlik tavakkalchiligi necha foizga teng bo’ladi?",
+    "javoblar": {
+      "A": "3,36%",
+      "B": "3,16%",
+      "C": "3,46%",
+      "D": "2,15%"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 88,
+    "savol": "Nomoddiy aktivlar inventarizatsiyasini o‘tkazishda auditor qaysi standartga asoslanadi?",
+    "javoblar": {
+      "A": "BHMS №19",
+      "B": "BHMS №1",
+      "C": "BHMS №4",
+      "D": "BHMS №5"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 89,
+    "savol": "Auditda xolislik tamoyilining mazmunini aniqlang?",
+    "javoblar": {
+      "A": "Auditorning manfaatsizligi va beg’arazligi",
+      "B": "Professional xizmatlarni ko’rsatishda qo’shimcha tekshiruv",
+      "C": "Tarafkashlik qilish",
+      "D": "Boshqa omillar ta’siridan foydalanish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 90,
+    "savol": "Auditorlar auditorlik amallarini bajarish chog’ida quyidagilardan qaysi birini bajaradi?",
+    "javoblar": {
+      "A": "hamma javoblar to’g’ri",
+      "B": "dalillovchi ma’lumotlarni to’playdi",
+      "C": "mijoz korxonani inventarizatsiya qiladi",
+      "D": "uchinchi shaxsning og’zaki bildirishlarini yig’adi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 91,
+    "savol": "Auditorlar bilim darajasini doimiy ravishda mustahkamlab borishi zarurligi Axloq kodeksining qaysi tamoyilida belgilangan?",
+    "javoblar": {
+      "A": "professional kompetentlik",
+      "B": "mustaqillik",
+      "C": "obyektivlik",
+      "D": "maxfiylik"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 92,
+    "savol": "Moliyaviy hisobotlarni tasdiqlash sanasi…?",
+    "javoblar": {
+      "A": "Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda tegishli vakolatlarga ega bo‘lgan shaxslar ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana",
+      "B": "Moliyaviy axborotlar aks etadigan hujjatlarni tayyorlanganligini hamda tegishli vakolatlarga ega bo‘lgan shaxslar ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana",
+      "C": "Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda tashkilot raxbari tomonidan ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana",
+      "D": "Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda yordamchi buxgalter tomonidan ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 93,
+    "savol": "Auditorlik faoliyatini amalga oshirish uchun Auditorlik tashkilotlari Reyestrini yuritishga vakolatli organni ko’sating?",
+    "javoblar": {
+      "A": "Iqtisodiyot va moliya vazirligi",
+      "B": "Iqtisodiyot vazirligi.",
+      "C": "Auditorlar palatasi",
+      "D": "O’zbekiston buxgalterlar va auditorlar milliy assotsiatsiyasi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 94,
+    "savol": "Moliyaviy hisobotlarni e’lon qilish sanasi…?",
+    "javoblar": {
+      "A": "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) bilan barcha foydanaluvchilar tanishishi uchun imkoniyat yuzaga kelgan sana",
+      "B": "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) bilan korxona raxbariyati tanishish imkoniyat yuzaga kelgan sana",
+      "C": "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) bilan aktsiyadorlar tanishishi uchun imkoniyat yuzaga kelgan sana",
+      "D": "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) imzolangan sana"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 95,
+    "savol": "Auditorlik tashkiloti auditorlik tanlashning barcha bosqichlarini va uning natijalari tahlilini qaysi hujjatda aks ettiradi?",
+    "javoblar": {
+      "A": "auditorning ishchi hujjatlarida",
+      "B": "auditorlik shartnomada",
+      "C": "auditorlik hisobotida",
+      "D": "auditorlik xulosasida"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 96,
+    "savol": "Auditorlik tekshiruvi hajmining cheklanganligi deb nimaga aytiladi?",
+    "javoblar": {
+      "A": "Bu xo’jalik yurituvchi sub’ekt vakillari yoki uchinchi shaxslarning, boshlab qo’yilgan auditorlik tekshiruvini, auditor auditorlik xulosasi tayyorlash uchun yetarli deb hisoblaydigan hajmda o’tkazishga to’sqinlik qilishga qaratilgan ochiqdan-ochiq ko’rsatadigan hatti-harakatlari yoki harakatsizligidir",
+      "B": "Auditorlik tekshiruvida inventarizatsiyani o’tkazilmasligidir",
+      "C": "Bu xo’jalik yurituvchi sub’ekt vakillari yoki uchinchi shaxslarning, boshlab qo’yilgan auditorlik tekshiruvini, auditor auditorlik xulosasi tayyorlash uchun sifatli o’tkazishga to’sqinlik qilishga qaratilgan ochiqdan-ochiq ko’rsatadigan hatti-harakatlari yoki harakatsizligidir",
+      "D": "Auditorlik tekshiruvining hajmi cheklanmagan"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 97,
+    "savol": "Auditorlik tekshiruvi ko’rsatkichlar samaradorligi va unumdorligi bo’yicha o’tkazilishi auditning qaysi turida ko’rib o’tiladi?",
+    "javoblar": {
+      "A": "operatsion audit",
+      "B": "mos keluvchanlik auditi",
+      "C": "moliyaviy hisobotlar auditi",
+      "D": "majburiy audit"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 98,
+    "savol": "Auditorlik tekshiruvi natijasida etkazilgan zararlarni undirish bo’yicha daromadlar moliyaviy daromadlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi daromad qaysi qatorga qo’shilishi kerak?",
+    "javoblar": {
+      "A": "asosiy ishlab chiqarish faoliyatidan olinadigan boshqa daromadlar",
+      "B": "moliyaviy faoliyatdan olinadigan daromadlar",
+      "C": "mahsulot sotishdan olingan sof tushum",
+      "D": "favqulodda daromadlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 99,
+    "savol": "Auditorlik tekshiruvi natijasida ishlab chiqarish xodimlarini va ishlab chiqarish aktivlarini majburiy va ixtiyoriy sug’urta qilish xarajatlari boshqa operatsion xarajatlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi xarajat qaysi qatorga qo’shilishi kerak?",
+    "javoblar": {
+      "A": "ishlab chiqarish tusidagi boshqa xarajatlar",
+      "B": "ishlab chiqarish xususiyatiga ega bo’lgan mehnatga haq to’lash xarajatlari;",
+      "C": "ishlab chiqarish bilan bog’liq moddiy xarajatlar",
+      "D": "sotish xarajatlari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 100,
+    "savol": "Auditorlik tekshiruvi natijasida mol-mulkni uzoq muddatli ijaraga berishdan olingan daromadlar operatsion daromadlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi daromad qaysi qatorga qo’shilishi kerak?",
+    "javoblar": {
+      "A": "moliyaviy faoliyatdan olinadigan daromadlar",
+      "B": "mahsulot sotishdan olingan sof tushum",
+      "C": "asosiy ishlab chiqarish faoliyatidan olinadigan boshqa daromadlar",
+      "D": "favqulodda daromadlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 101,
+    "savol": "Auditorlik tekshiruvi qanday shakllarda o’tkaziladi?",
+    "javoblar": {
+      "A": "majburiy, tashabbus tarzidagi audit shakllari",
+      "B": "majburiy audit shakllar",
+      "C": "nazorat, taftish va ixtiyoriy audit shakllari",
+      "D": "majburiy, ixtiyoriy va taftish shakllari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 102,
+    "savol": "Korporativ boshqaruvda ichki audit xizmati ishini tahlil va nazorat qilish qaysi qo’mitaning vazifasi hisoblanadi?",
+    "javoblar": {
+      "A": "Audit qo’mitasi",
+      "B": "Rag’batlantirish qo’mitasi",
+      "C": "Xodimlar bo’yicha qo’mitasi",
+      "D": "Risklar bo’yicha qo’mita"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 103,
+    "savol": "Audit qo’mitasi a’zoligiga nomzodlar qatoriga kimlarni kiritish mumkin?",
+    "javoblar": {
+      "A": "Ijrochi bo’lmagan direktorlar",
+      "B": "Ijrochi direktorlar",
+      "C": "Ichki auditorlar",
+      "D": "Ekspertlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 104,
+    "savol": "Korporativ boshqaruvda tashqi auditorlarning mustaqilligi va obyektivligini qaysi qo’mita nazorat va tahlil qiladi?",
+    "javoblar": {
+      "A": "Audit qo’mitasi",
+      "B": "Risklarni boshqarish qo’mitasi",
+      "C": "Rag’batlantirish bo’yicha qo’mita",
+      "D": "Xodimlarni boshqarish qo’mitasi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 105,
+    "savol": "Auditorlik xulosasiga qaysi qatorda to’liqroq va aniqroq javob berilgan?",
+    "javoblar": {
+      "A": "Moliyaviy hisobotning to’g’riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to’g’risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ektga taqdim etilgan hujjat",
+      "B": "Moliyaviy hisobotning to’g’riligi to’g’risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo’lgan hujjat",
+      "C": "Buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to’g’risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo’lgan hujjat",
+      "D": "Moliyaviy hisobotning to’g’riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to’g’risida auditorlik tashkilotining maxfiy fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo’lgan hujjat"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 106,
+    "savol": "Moliyaviy hisobotdagi ataylab qilingan buzib ko‘rsatish, jumladan moliyaviy hisobot tuzishda ochib berilishi talab etiladigan ma’lumotlarni yoki qandaydir summalarni ataylab yashirish",
+    "javoblar": {
+      "A": "Firibgarlik",
+      "B": "Xato",
+      "C": "Tushrib qoldirish",
+      "D": "Noto’g’ri ko’rsatish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 107,
+    "savol": "Bekor qilingan ishlab chiqarish buyurtmalari bo’yicha yo’qotishlar qaysi turdagi xarajatlarga kiritiladi?",
+    "javoblar": {
+      "A": "boshqa operatsion xarajatlar",
+      "B": "ma’muriy xarajatlari",
+      "C": "sotish xarajatlari",
+      "D": "moliyaviy xarajatlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 108,
+    "savol": "Asosiy vositalar auditining aniq maqsadi nimalardan iborat?",
+    "javoblar": {
+      "A": "asosiy vositalar tarkibining to’g’ri shakllantirilishi, ular xarakatini hisobga olishning to’liqligi va realligini tekshirilishidan iborat",
+      "B": "ularni hisob kitob schetida to’g’ri aks ettirilganligini o’rganish",
+      "C": "asosiy vositalar xarakati to’g’risidagi hisobotni tekshirishdan iborat",
+      "D": "mol etkazib beruvchilan bilan aloqasini o’rganish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 109,
+    "savol": "Firibgarlik bu-",
+    "javoblar": {
+      "A": "Rahbariyat, boshqaruv yuklatilgan shaxslar, xodimlar yoki uchinchi shaxslar orasidan bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan noxaqqoniy va noqonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat",
+      "B": "Kuzatuv kengashi yuklatilgan shaxslar bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan noxaqqoniy va noqonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat",
+      "C": "Rahbariyat, boshqaruv yuklatilgan shaxslar, xodimlar yoki uchinchi shaxslar orasidan bitta yoki bir nechta shaxslar tomonidan bilmasdan qilinadigan xarakat",
+      "D": "Kuzatuv kengashi yuklatilgan shaxslar bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan xaqqoniy va qonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 110,
+    "savol": "Ekspert ishlari natijalari to’g’risidagi xulosaning mazmuni va shakli bu -",
+    "javoblar": {
+      "A": "ekspert xizmat ko’rsatish shartnomasida kursatiladi",
+      "B": "korxona hisob siyosatida ko’zda tutiladi",
+      "C": "auditorlik tashkiloti bilan korxona o’rtasida tuzilgan shartnomada",
+      "D": "auditorlar yig’ilishida belgilanadi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 111,
+    "savol": "Firibgarlikni rag‘batlantiruvchi yoki sodir etishga majburlovchi yohud firibgarlik qilish imkoniyatini yuzaga keltiruvchi voqealar va sharoitlar",
+    "javoblar": {
+      "A": "Firibgarlik riski omillari",
+      "B": "Nazorat riski omillari",
+      "C": "Ajratib bo’lmaydigan risk omillari",
+      "D": "Auditorlik riski omillari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 112,
+    "savol": "Moliyaviy hisobotda buzib ko‘rsatish",
+    "javoblar": {
+      "A": "xato yoki firibgarlik natijasida yuzaga kelishi mumkin",
+      "B": "firibgarlik natijasida yuzaga kelishi mumkin",
+      "C": "xato natijasida yuzaga kelishi mumkin",
+      "D": "Buxgalterlarning bilimsizligi natijasida yuzaga kelishi mumkin"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 113,
+    "savol": "Auditor professional xizmat ko’rsatib bo’lganidan so’ng mijozning maxfiy axborotini o’zining foydasi, 3-shaxsning foydasi yoki mijozga zarar etkazish maqsadida oshkor etmasligi lozim. Ushbu qaysi talabni xarakterlaydi?",
+    "javoblar": {
+      "A": "Mijoz axborotining maxfiyligi",
+      "B": "Auditorning kasbiy mahorati",
+      "C": "Auditorning mustaqilligi",
+      "D": "Auditorning e’tiborliligi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 114,
+    "savol": "Buzib ko‘rsatishlar yuzaga kelishi mumkin",
+    "javoblar": {
+      "A": "Moliyaviy hisobotlarni tayyorlash uchun asos bo‘lgan ma’lumotlarni yig‘ish yoki ularga ishlov berishdagi xatoliklar natijasida",
+      "B": "Buxgalter tomonidan moliyaviy hisobotni tuzish natijasida",
+      "C": "Boshlang’ich hujjatlarni tayyorlash natijasida",
+      "D": "Hisob registrlarini tayyorlash natijasida"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 115,
+    "savol": "Audit jarayonida qaysi moliyaviy hisobot shakli korxona faoliyatining foyda yoki zararini tavsiflaydi?",
+    "javoblar": {
+      "A": "moliyaviy natijalar to’g’risidagi hisobot",
+      "B": "xususiy kapital to’g’risidagi hisobot",
+      "C": "tushuntirish xati",
+      "D": "buxgalteriya balansiga ilova"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 116,
+    "savol": "Ichki audit xizmati kimning qaroriga asosan tashkil etiladi",
+    "javoblar": {
+      "A": "Kuzatuv kengashi",
+      "B": "Aktsiyadorlar umumiy yig’ilishi",
+      "C": "Direktor",
+      "D": "Taftish komissiyasi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 117,
+    "savol": "Auditorlar va auditorlik tashkiloti xodimlari auditorlik xizmatlari ko‘rsatish jarayonida o‘zlariga ma’lum bo‘lib qolgan ma’lumotlarni o‘ziga auditorlik xizmatlari ko‘rsatilgan shaxslarning yozma roziligisiz oshkor etmasligi",
+    "javoblar": {
+      "A": "Axborotning maxfiyligi prinsipi",
+      "B": "Musatqillik  prinsipi",
+      "C": "Professional kompitentlik prinsipi",
+      "D": "Xolislik prinsipi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 118,
+    "savol": "Kompaniyaning moliyaviy hisoboti ishonchli va haqqoniy taqdim etilganligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?",
+    "javoblar": {
+      "A": "moliyaviy hisobot auditi",
+      "B": "operatsion audit",
+      "C": "mos keluvchanlik auditi",
+      "D": "ichki audit"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 119,
+    "savol": "Korxona iqtisodiga ta’sir qiladigan ichki omillarga quyidagilardan qaysi biri kiradi?",
+    "javoblar": {
+      "A": "korxonaning uchinchi shaxslar bilan o’zaro munosabatlari",
+      "B": "tarmoq holati",
+      "C": "mamlakat soliq siyosati",
+      "D": "mamlakatdagi mavjud inflyatsion holat"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 120,
+    "savol": "Korxona xodimlari tomonidan bajariladigan maxsus tekshiruvlar nima deb ataladi?",
+    "javoblar": {
+      "A": "nazorat amallari",
+      "B": "nazorat muhiti",
+      "C": "korxonadagi buxgalterlik hisobi tizimi",
+      "D": "ichki nazorat tizimi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 121,
+    "savol": "Korxonaning soliq deklaratsiyasi soliq inspektsiyasi talablariga muvofiq emasligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?",
+    "javoblar": {
+      "A": "mos keluvchanlik auditi",
+      "B": "operatsion audit",
+      "C": "moliyaviy hisobotlar auditi",
+      "D": "majburiy audit"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 122,
+    "savol": "Auditorlik tekshiruvi obyekti hisoblangan umumiy maqsadli asosga muvofiq tayyorlangan moliyaviy hisobotlarda nima aks etmaydi?",
+    "javoblar": {
+      "A": "Ishsizlik darajasi",
+      "B": "Moliyaviy holat",
+      "C": "Moliyaviy natijalar",
+      "D": "Pul oqimlari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 123,
+    "savol": "Majburiy auditorlik tekshiruvining o’tkazish muddati qanday?",
+    "javoblar": {
+      "A": "hisobot yilidan keyingi yilning 15 iyuniga qadar",
+      "B": "hisobot yilidan keyingi yilning 1 fevraligacha",
+      "C": "hisobot yilidan keyingi yilning 1 apreligacha",
+      "D": "hisobot yilidan keyingi yilning 1 martigacha"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 124,
+    "savol": "Auditor auditorlik faoliyati davrida boshqa tadbirkorlik faoliyati bilan shug’ullanmasligi lozim. Qaysi talabga mos tushadi?",
+    "javoblar": {
+      "A": "Professional xizmatga aloqador bo’lmagan sohada auditorning harakati",
+      "B": "Xodimlarning auditorlik tashkilotlari bilan munosabati",
+      "C": "Nashr qilinadigan axborot va reklama",
+      "D": "Auditorning kasbiy mahorati"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 125,
+    "savol": "Korxonalarda ishlab chiqarish xarajatlarini tartibga soluvchi asosiy hujjat – bu ?",
+    "javoblar": {
+      "A": "“Mahsulot(ish,xizmat)larni ishlab chiqarish va realizatsiya xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi to’g’risida”gi Nizom",
+      "B": "Auditorlik dalillar",
+      "C": "Moliyaviy Hisobotning Xalqaro Standartlari",
+      "D": "Auditning Xalqaro Standartlari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 126,
+    "savol": "Tannarx soliqqa tortish maqsadlarida hisob elementi sifatida esa soliqqa tortiladigan bazani … miqdor bo’lib hisoblanadi.",
+    "javoblar": {
+      "A": "kamaytiradigan",
+      "B": "ko’paytiradigan",
+      "C": "oshiradigan",
+      "D": "to’g’ri javob yo’q"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 127,
+    "savol": "To’langan ijara haqi keyinga yil davomida umumiy summaning … qismi miqdorida har oyda xarajatga hisobdan o’chirishi lozim.",
+    "javoblar": {
+      "A": "1/12",
+      "B": "3/12",
+      "C": "6/12",
+      "D": "butun"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 128,
+    "savol": "Mahsulotlarning ishlab chiqarish tannarxiga kiritilmaydigan xarajatlarni toping.",
+    "javoblar": {
+      "A": "foizlar bo’yicha sarflar",
+      "B": "bevosita va bilvosita moddiy xarajatlar",
+      "C": "bevosita va bilvosita mehnat xarajatlari",
+      "D": "boshqa bevosita va bilvosita xarajatlar,shu jumladan ishlab chiqarish xususiyatiga ega bo’lgan ustama xarajatlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 129,
+    "savol": "Xo’jalik yurituvchi sub’ektlarning umumxo’jalik faoliyatidan olingan foyda yoki ko’rilgan zararlarni hisoblab chiqarishda hisobga olinadigan, uning moliyaviy faoliyatiga doir xarajatlar guruhiga kirmaydigan xarajatlarni toping.",
+    "javoblar": {
+      "A": "sotish xarajatlari",
+      "B": "foizlar bo’yicha sarflar",
+      "C": "xorijiy valyuta muomalalari bo’yicha salbiy kurs tafovutlari",
+      "D": "moliyaviy faoliyatga doir boshqa xarajatlar"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 130,
+    "savol": "Quyidagilardan qaysi biri auditor tomonidan korxona faoliyatini o’rganish uchun maqsad hisoblanmaydi?",
+    "javoblar": {
+      "A": "xato-kamchiliklar bo’yicha tegishli organlarga zudlik bilan murojaat qilish",
+      "B": "audit o’tkazishni osonlashtirish",
+      "C": "audit o’tkazishni sifatini oshirish",
+      "D": "tekshiriladigan korxona iqtisodini yaxshilashga qaratilgan amaliy maslahat yordami ko’rsatish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 131,
+    "savol": "Ishlab chiqarishga berilgan materiallarni hisobdan o’chirish yuzasidan mamlakatimizda qo’llanilmaydigan usulni aniqlang.",
+    "javoblar": {
+      "A": "LIFO",
+      "B": "har bir birligining tannarxi bo’yicha",
+      "C": "AVECO",
+      "D": "FIFO"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 132,
+    "savol": "Auditor qaytarib olinadigan chiqindilar qiymati va idish hamda o’rash materiallari qiymati ularni sotish,foydalanish yoki omborga kirim qilish mumkin bo’lgan narxda baholanib,mahsulot tannarxiga kiritiladigan moddiy resurslar xarajatlaridan … aniqlashi zarur.",
+    "javoblar": {
+      "A": "chegirib tashlanganligini",
+      "B": "chegirib tashlanmaganligini",
+      "C": "oshirib ko’rsatilganligini",
+      "D": "to’g’ri javob yo’q"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 133,
+    "savol": "Kasbiy layoqatlilik darajasiga erishish va kasbiy layoqatlilikni tegishli darajada saqlab turish. Ushbu fikr nimaga urg’u beradi?",
+    "javoblar": {
+      "A": "Kasbiy mahoratga",
+      "B": "Auditorning xizmatiga",
+      "C": "Auditorning mustaqilligiga",
+      "D": "Etik normalarga"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 134,
+    "savol": "Auditorlik hisoboti shu tekshiruvni o’tkazgan auditor(lar) tomonidan qanday imzolanishi lozim?",
+    "javoblar": {
+      "A": "betma-bet",
+      "B": "faqatgina birinchi beti",
+      "C": "faqatgina oxirgi beti",
+      "D": "faqatgina birincha va oxirgi betlari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 135,
+    "savol": "Quyidagilardan qaysi biri auditorlik hisobotining tahliliy qismida bo’lmaydi?",
+    "javoblar": {
+      "A": "audit shartnomasi summasi",
+      "B": "xo’jalik yurituvchi sub’ektda ichki nazoratning ahvolini tekshirish natijalari (batafsil bayoni)",
+      "C": "xarajatlarni bo’limlar o’rtasida to’g’ri taqsimlanishini amalga oshirish chog’ida qonunchilikka rioya qilinishini tekshirish natijalari",
+      "D": "xom ashyo va tayyor mahsulotlarning saklanishini tekshirish natijalari"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 136,
+    "savol": "O’zbekiston Respublikasi Fuqarolik Kodeksi va shartnoma qonunchiligiga ataylab rioya qilinmasdan tuzilgan shartnomalar va ular asosida amalga oshirilgan muomalalar … deb topiladi.",
+    "javoblar": {
+      "A": "haqiqiy emas",
+      "B": "haqiqiy",
+      "C": "shartli ravishda haqiqiy",
+      "D": "shartli ravishda haqiqiy emas"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 137,
+    "savol": "Quyidagilardan qaysi biri auditorlik tekshiruvida ta’minot jarayoniga xos bo’lgan ichki nazorat vositalarining samaradorligini baholash bosqichi hisoblanmaydi?",
+    "javoblar": {
+      "A": "moliyaviy natijalarni tekshirish",
+      "B": "ichki nazorat vositalarini dastlabki o’rganish",
+      "C": "ichki nazorat vositalarini testdan o’tkazishni amalga oshirish imkoniyatini aniqlash uchun ulardan har birining ishonchliligini dastlabki baholash",
+      "D": "testdan o’tkazish natijalari asosida ichki nazorat vositalarining ishonchliligini yakuniy baholash"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 138,
+    "savol": "Muhimlik darajasi auditorlik tekshiruvining qaysi bosqichda belgilab olinadi?",
+    "javoblar": {
+      "A": "Rejalashtirish bosqichida",
+      "B": "Tekshiruv o’tkazish chog’ida",
+      "C": "Yakuniy bosqichida",
+      "D": "Tugatish va qayta ko’rib chiqish bosqichida"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 139,
+    "savol": "Rahbariyat va xodimlar malakaviy darajalarining pastligi qaysi riskka ta’sir ko‘rsatuvchi omil hisoblanadi?",
+    "javoblar": {
+      "A": "Ichki xo‘jalik riski",
+      "B": "Nazorat riski",
+      "C": "Aniqlanmaslik riski",
+      "D": "Firibgarlik riski"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 140,
+    "savol": "Mol yetkazib beruvchilar va pudratchilarga to’lanadigan schyotlarning joriy qismi qaysi schyotda olib boriladi?",
+    "javoblar": {
+      "A": "6010",
+      "B": "7010",
+      "C": "6110",
+      "D": "7110"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 141,
+    "savol": "Hisob va hisobot ma’lumotlarining o’zaro tengligi aniqlaganidan so’ng, auditor mol etkazib beruvchilar va pudratchilar bilan hisob-kitoblar qoldig’ining haqqoniyligini baholashi kerak. Shu maqsadda u quyidagilardan qaysi birini tekshirmaydi?",
+    "javoblar": {
+      "A": "moliyaviy natijalarni tekshirish",
+      "B": "analitik hisob registrlarida dastlabki hujjatlar va shartnomalarning raqamlari hamda tuzilgan sanalari to’g’risidagi ma’lumotlar mavjudligi",
+      "C": "analitik hisob registrlarida ko’rsatilgan shartnomalar va dastlabki hujjatlarning haqiqatda mavjudligi (tanlab tekshiriladi)",
+      "D": "dastlabki hujjatlar va hisob registrlaridagi ma’lumotlarning mosligi (tanlab tekshiriladi)"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 142,
+    "savol": "Majburiyat summalarining hujjat bilan tasdiqlanmaganlari shubhali qarzdorliklar qatoriga qo’shiladi. Bunday qarzlarning haqqoniyligi hisob-kitoblarni … yo’li bilan tasdiqlanadi.",
+    "javoblar": {
+      "A": "inventarizatsiya qilish (solishtirish dalolatnomasi tuzish)",
+      "B": "chamalab tekshirish",
+      "C": "eng yuqori (TOP) 3ta summani tekshirish",
+      "D": "eng yuqori (TOP) 10ta summani tekshirish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 143,
+    "savol": "Axloq kodeksi talablariga muvofiq ichki auditor qaysi talabni bajarishi shart?",
+    "javoblar": {
+      "A": "Jamiyat manfaatlarini inobatga olishi shart",
+      "B": "O’zining shaxsiy manfaatini inobatga olishi shart",
+      "C": "Tekshirilayotgan xo’jalik yurituvchi sub’ektning manfaatini inobatga olishi shart",
+      "D": "Uchinchi shaxslarning manfaatini inoabtga olishi shart"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 144,
+    "savol": "Aktivlarni noqonuniy egallash holati nimaga misol bo’ladi?",
+    "javoblar": {
+      "A": "Firibgarlikka",
+      "B": "Xatoga",
+      "C": "Anglashilmovchillikka",
+      "D": "Beparvolikka"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 145,
+    "savol": "Auditor mijozga xizmat ko’rsatish davrida u bilan aloqaning davom etayotganligi yoki to’xtatilganidan qat’iy nazar, uning maxfiy axborotlarini sir saqlashi lozim. Ushbu jumla qaysi talabni ochib beradi?",
+    "javoblar": {
+      "A": "Mijoz axborotining maxfiyligi",
+      "B": "Auditorning obyektivligi",
+      "C": "Auditorning mustaqilligi",
+      "D": "Auditorning e’tiborliligi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 146,
+    "savol": "Omborxona kirim hujjatlarini mol etkazib beruvchilarning kuzatib boruvchi hujjatlari yoki materiallarni chakana savdoda naqd pulga sotib olish hujjatlari bilan solishtirish omborxonada sodir bo’lgan kirim muomalalarini tekshirishning … usuli hisoblanadi.",
+    "javoblar": {
+      "A": "son (qiymat) miqdor",
+      "B": "tahliliy",
+      "C": "maxsus",
+      "D": "farqli"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 147,
+    "savol": "Ustav kapitaliga ulush sifatida yoki obuna bo’lingan aktsiya qiymatini to’lash hisobiga olingan nomoddiy aktiv kirim qilindi. To’g’ri provodkani ko’rsating.",
+    "javoblar": {
+      "A": "Debet 0410-0490, Kredit 4610",
+      "B": "Debet 0110-0190, Kredit 4610",
+      "C": "Debet 0210-0290, Kredit 4610",
+      "D": "Debet 0510-0590, Kredit 4610"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 148,
+    "savol": "Buxgalteriya hisobining umumiy prinsiplariga ko’ra har qanday nomoddiy aktiv kirimi … asosida rasmiylashtiriladi.",
+    "javoblar": {
+      "A": "tegishli dastlabki hujjatlar",
+      "B": "rahbarning og’zaki ko‘rsatmasi",
+      "C": "buxgalterning xohishi",
+      "D": "to’g’ri javob yo’q"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 149,
+    "savol": "Sanoat namunalari va kashfiyot huquqlarini sotib olish nimalar bilan tasdiqlanadi?",
+    "javoblar": {
+      "A": "patentlar, guvohnomalar",
+      "B": "og’zaki topshiriqlar",
+      "C": "televideniye ko’rsatuvlari",
+      "D": "to’g’ri javob yo’q"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 150,
+    "savol": "Korxonaga tegishli bo’lmagan, ammo uning ixtiyorida saqlanayotgan yoki ishlatilayotgan tovar-moddiy zahiralar shartnomalar shartlariga muvofiq, shartnomada ko’rsatilgan bahoda … aks ettiriladi.",
+    "javoblar": {
+      "A": "balansdan tashqari schyotlarda",
+      "B": "balans schyotlarida",
+      "C": "sho’ba korxona balans schyotlarida",
+      "D": "sho’ba korxona balansdan tashqari schyotlarida"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 151,
+    "savol": "Ishlab chiqarishga xarajat qilinadigan moddiy boyliklarning haqiqiy tannarxini aniqlash chog’ida ishlab chiqarish zahiralarini baholashning ruxsat etilgan usullarini toping.",
+    "javoblar": {
+      "A": "O’rtacha tannarxi bo’yicha (AVECO), Birinchi xarid qilingan tannarx bo’yicha (FIFO)",
+      "B": "O’rtacha tannarxi bo’yicha (AVECO), Oxirgi xarid qilingan tannarx bo’yicha (LIFO)",
+      "C": "Birinchi xarid qilingan tannarx bo’yicha (FIFO), Oxirgi xarid qilingan tannarx bo’yicha (LIFO)",
+      "D": "to’g’ri javob yo’q"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 152,
+    "savol": "Auditor moliyaviy hisobotlar barcha muhim jihatlari bo‘yicha moliyaviy hisobotni taqdim qilish uchun qo‘laniladigan asosga muvofiq tayyorlangan degan xulosaga kelganida bildiriladigan fikr nima deb nomlanadi?",
+    "javoblar": {
+      "A": "Modifikatsiyalanmagan fikr",
+      "B": "Modifikatsiyalangan fikr",
+      "C": "Salbiy fikr",
+      "D": "Stratifikatsiyalangan fikr"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 153,
+    "savol": "Moliyaviy hisobotlar ularni haqqoniy taqdim etish asosiga muvofiq tayyorlangan, biroq moliyaviy hisobotlarni taqdim etishning qo‘llaniladigan asosiga muvofiq haqqoniy taqdim etilmaganida qaysi xulosa tuziladi?",
+    "javoblar": {
+      "A": "Salbiy fikr bildirilgan auditorlik xulosasi",
+      "B": "Izohlar bilan bildirilgan auditorlik xulosasi",
+      "C": "Ijobiy fikr bildirilgan auditorlik xulosasi",
+      "D": "Xulosa berishdan bosh tortish"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 154,
+    "savol": "710-son AXSga binoan qiyosiy axborot deganda nima tushuniladi?",
+    "javoblar": {
+      "A": "Moliyaviy hisobotni taqdim etish uchun qo‘llaniladigan asosga muvofiq bir yoki undan ortiq o‘tgan davrlar uchun moliyaviy hisobotlarga kiritilgan summalar va ochib beriladigan ma’lumotlar",
+      "B": "Oldingi davr summalari va boshqa  ochib beriladigan ma’lumotlari joriy davr moliyaviy hisobotining ajralmas qismi sifatida kiritilgan hamda joriy davr summalari va boshqa ochib beriladigan ma’lumotlari bilan birgalikda ko‘rib chiqish maqsadida keltirilgan qiyosiy ma’lumotlar",
+      "C": "O‘tgan davr uchun summalar va boshqa  ochib beriladigan ma’lumotlar joriy davr moliyaviy hisobotlari bilan solishtirish maqsadida keltiriladigan,  audit tekshiruvidan o‘tkazilgan bo‘lsa, auditorlik fikrida aytib o‘tiladigan qiyosiy axborot",
+      "D": "O‘tgan davr uchun summalar va boshqa  ochib beriladigan ma’lumotlar joriy davr moliyaviy hisobotlari bilan solishtirish maqsadida keltiriladigan qiyosiy axborot"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 155,
+    "savol": "Auditorlik tashkiloti tomonidan auditorlik tekshiruvlar vaqtida to’plangan va auditorlik xulosasini asoslovchi axborot nima deyiladi?",
+    "javoblar": {
+      "A": "dalil",
+      "B": "ishchi hujjatlar",
+      "C": "tahliliy amallar",
+      "D": "ma’lumot"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 156,
+    "savol": "………………..bu tashkilotning bo‘lib o‘tgan hodisalardan yuzaga keladigan mavjud javobgarligi bo‘lib, uning so‘ndirilishi natijasida tashkilotdan o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi kutiladi. Fikr nima haqida ketmoqda?",
+    "javoblar": {
+      "A": "majburiyat",
+      "B": "xarajat",
+      "C": "zarar",
+      "D": "aktiv"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 157,
+    "savol": "Noaniq bajarish muddatiga yoki noaniq qiymatga ega bo‘lgan majburiyat nima deb yuritiladi?",
+    "javoblar": {
+      "A": "baholangan majburiyat",
+      "B": "shartli majburiyat",
+      "C": "shartli aktiv",
+      "D": "javobgarlik"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 158,
+    "savol": "Oldingi shakllangan tajriba, e’lon qilingan siyosat yoki yetarlicha aniq bo‘lgan joriy bayonot asosida, tashkilot boshqa tomonlarga ma’lum javobgarliklarni o‘z zimmasiga olishini ko‘rsatganligi nima deb xarakterlanadi?",
+    "javoblar": {
+      "A": "Konstruktiv javobgarlik",
+      "B": "Yuridik javobgarlik",
+      "C": "shartli aktiv",
+      "D": "javobgarlik"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 159,
+    "savol": "Tashkilotning haqiqiy moliyaviy holatini aniqlashga berilgan ta’rifni toping?",
+    "javoblar": {
+      "A": "Balansni ko‘rish uchun tashkilot moliyaviy holatiga to‘g‘ri va adolatli nuqtai nazarni yoritib beradi. Kutilayotgan barcha zararlar va xarajatlar uchun mablag‘ ajratilishi zarur",
+      "B": "bu tashkilotning bo‘lib o‘tgan hodisalardan yuzaga keladigan mavjud javobgarligi bo‘lib, uning so‘ndirilishi natijasida tashkilotdan o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi kutiladi",
+      "C": "baholangan majburiyatning qiymati javobgarlikni bajarish uchun talab etilishi kutilayotgan sarflarning joriy qiymatiga teng bo‘lishi lozim.",
+      "D": "noaniq bajarish muddatiga yoki noaniq qiymatga ega bo‘lgan majburiyat, o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi mavjud bo‘ladi"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 160,
+    "savol": "Ushbu tushuncha aksiyalarni nominal qiymatidan baland narxlarda dastlabki sotishdan olinadigan emissiya daromadini, shuningdek ekvivalenti chet el valyutasida ifodalangan ustav fondini (ustav kapitalini) shakllantirish jarayonida yuzaga keladigan kurs farqini aks ettiradi?",
+    "javoblar": {
+      "A": "qo‘shilgan kapital",
+      "B": "ustav kapitali",
+      "C": "zaxira kapitali",
+      "D": "taqsimlanmagan foyda"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 161,
+    "savol": "Uzoq muddatli aktivlarni qayta baholashda hosil bo‘ladigan inflyatsiya zaxiralarini, qonunchilikda va ta’sis hujjatlarida nazarda tutilgan miqdorlarda sof foydadan ajratmalarni, shuningdek tekinga olingan mol-mulkning qiymatini aks ettiradi. Ushbu ta’rif qaysi tushunchaga tegishli?",
+    "javoblar": {
+      "A": "zaxira kapitali",
+      "B": "ustav kapitali",
+      "C": "qo‘shilgan kapital",
+      "D": "taqsimlanmagan foyda"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 162,
+    "savol": "Auditorlik kompaniyasi tomonidan mijoz korxonaga jo’natiladigan rasmiy taklif nima deyiladi?",
+    "javoblar": {
+      "A": "Oferta",
+      "B": "Shartnoma",
+      "C": "Rezolyutsiya",
+      "D": "Bitim"
+    },
+    "togri_javob": "A"
+  },
+  {
+    "id": 163,
+    "savol": "Solishtirish usuli ?",
+    "javoblar": {
+      "A": "Iqtisodiy hodisalar, ko’rsatkichlarni o’zaro va biznes-reja bilan solishtirish",
+      "B": "Audit obyekti bo’lgan ma’lum ko’rsatkich omillar asosida o’rganiladi, mavjud ichki imkoniyatlar aniqlanadi.",
+      "C": "Hodisalarning sodir bo’lishi, natijalari turli shart-sharoitlarni e’tiborga olgan holda o’rganiladi. Bunday usul ko’pincha “yashirin iqtisodiyot” natijalarini aniqlashda keng foydalaniladi.",
+      "D": "Korxonaning faoliyatiga to’liq baho berish uchun barcha operatsiyalar tasdiqlovchi nazoratidan o’tkaziladi."
+    },
+    "togri_javob": "A"
+  }
+]
